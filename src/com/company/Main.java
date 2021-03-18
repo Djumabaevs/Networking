@@ -20,6 +20,10 @@ public class Main {
            URL url = resolvedUri.toURL();
            System.out.println("URl: " + url);
 
+           URI relativizedURI = baseUri.relativize(resolvedUri);
+           System.out.println("Relativized URI: " + relativizedURI);
+
+
         /*   System.out.println("Scheme: " + uri.getScheme());
            System.out.println("Scheme - specific path: " + uri.getSchemeSpecificPart());
            System.out.println("Authority: " + uri.getAuthority());

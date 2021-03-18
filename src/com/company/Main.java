@@ -14,6 +14,9 @@ public class Main {
            URL url = uri.toURL();
 
 */
+
+
+
            URI baseUri = new URI("http://username:password@myserver.com:5000");
            URI uri = new URI("/catalogue/phones?os=android#samsung");
            URI resolvedUri = baseUri.resolve(uri);

@@ -34,6 +34,7 @@ public class Connection2 {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
+            System.out.println("wow");
         }
     }
 }

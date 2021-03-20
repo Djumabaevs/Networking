@@ -40,6 +40,7 @@ public class Connection3 {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
+            System.out.println("yes");
         }
     }
 }

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="srclib">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/httpd-2.4.46/srclib" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/httpd-2.4.46/srclib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/httpd-2.4.46/srclib" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/httpd-2.4.46/srclib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/httpd-2.4.46/srclib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/httpd-2.4.46/srclib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/httpd-2.4.46/srclib" recursive="false" type="SOURCES" />
+  </library>
+</component>

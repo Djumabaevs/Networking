@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="httpd-2.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/httpd-2.4.46" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/httpd-2.4.46" recursive="false" />
+  </library>
+</component>

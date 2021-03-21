@@ -16,6 +16,8 @@ public class ApacheTest {
         HttpGet request = new HttpGet("http://example.org");
         request.addHeader("User-Agent", "Chrome");
 
+        System.out.println("start");
+
         CloseableHttpResponse response = null;
         try {
           response = httpClient.execute(request);
